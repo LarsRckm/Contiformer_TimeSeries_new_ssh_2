@@ -2,8 +2,10 @@ __pycache__/
 train_dir/
 val_data/
 loss_data/
-val_pictures/
 docs/
+config/
 try.py
 training.log
 .hydra/
+*.py
+README.md

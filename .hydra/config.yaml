@@ -39,7 +39,7 @@ warmup_epochs: 10
 min_lr: 0.0001
 weight_l1: 1.0
 weight_grad: 0.01
-weight_smooth: 0.01
+weight_smooth: 0.0001
 use_frequency_loss: false
 early_stopping: true
 patience: 200
